@@ -562,7 +562,7 @@ If anything is unclear or you'd like more information please let me know.
 
 ### More about promises in general
 
-Start by reading this:  [Alex Perry's blog entry on promises in node](http://alexperry.io/node/2015/03/25/promises-in-node.html).
+Start by reading this:  [Alex Perry's blog entry on promises in node](https://web.archive.org/web/20160530171143/http://alexperry.io/node/2015/03/25/promises-in-node.html).
 
 Here is a short writeup on using promises with node and mySQL (which will work just fine with mariaDB)
 
